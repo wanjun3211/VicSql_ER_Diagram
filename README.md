@@ -13,4 +13,5 @@ Some services involve only labour activities and no parts required, but most ser
 
 Based on the information, the Crow’s Foot notation ERD has been created to support LEAR’s business operation.
 
-[Drawing1_updates.pdf](https://github.com/user-attachments/files/15745900/Drawing1_updates.pdf)
+
+![Drawing1_updates](https://github.com/wanjun3211/VicSql_ER_Diagram/assets/118150417/8c34666a-8f6e-44bd-a598-a7db44bfc47f)
