@@ -12,3 +12,5 @@ All repairs eventually require the performance of at least one service, but whic
 Some services involve only labour activities and no parts required, but most services require the replacement of one or more parts. The quantity of each part required in the performance of each service should also be recorded. For each part, the part number, part description, quantity in stock and cost is recorded in the system. The cost indicated is the amount that LEAR pays for part. Some parts may be used in more than one service, but each part is required for at least one service.
 
 Based on the information, the Crow’s Foot notation ERD has been created to support LEAR’s business operation.
+
+[Drawing1_updates.pdf](https://github.com/user-attachments/files/15745900/Drawing1_updates.pdf)
