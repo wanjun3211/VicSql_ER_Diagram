@@ -16,4 +16,8 @@ Based on the information, the Crow’s Foot notation ERD has been created to sup
 <img width="862" alt="ERD 1" src="https://github.com/wanjun3211/VicSql_ER_Diagram/assets/118150417/7968188e-ce2e-4444-aff2-36f17bbd20ad">
 
 
+
+
+
+
 <img width="620" alt="ERD 2" src="https://github.com/wanjun3211/VicSql_ER_Diagram/assets/118150417/6b60426b-a325-4f87-b5e7-d687f0d6bc8e">
